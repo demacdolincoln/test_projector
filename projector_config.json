@@ -6,10 +6,10 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/demacdolincoln/test_projector/raw/master/tensors.tsv",
-      "metadataPath": "https://github.com/demacdolincoln/test_projector/raw/master/metadata.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/demacdolincoln/test_projector/master/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/demacdolincoln/test_projector/master/metadata.tsv",
       "sprite": {
-        "imagePath": "https://github.com/demacdolincoln/test_projector/raw/master/sprite.png",
+        "imagePath": "https://raw.githubusercontent.com/demacdolincoln/test_projector/master/sprite.png",
         "singleImageDim": [
           32,
           32
