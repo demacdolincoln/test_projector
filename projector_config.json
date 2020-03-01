@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv",
+      "tensorPath": "https://github.com/demacdolincoln/test_projector/raw/master/tensors.tsv",
+      "metadataPath": "https://github.com/demacdolincoln/test_projector/raw/master/metadata.tsv",
       "sprite": {
         "imagePath": "https://github.com/demacdolincoln/test_projector/raw/master/sprite.png",
         "singleImageDim": [
