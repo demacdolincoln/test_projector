@@ -3,8 +3,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1000,
-        50
+        500,
+        72
       ],
       "tensorPath": "https://raw.githubusercontent.com/demacdolincoln/test_projector/master/tensors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/demacdolincoln/test_projector/master/metadata.tsv",
