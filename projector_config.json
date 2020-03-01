@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/demacdolincoln/test_projector/master/sprite.png",
         "singleImageDim": [
-          32,
-          32
+          28,
+          28
         ]
       }
     }
